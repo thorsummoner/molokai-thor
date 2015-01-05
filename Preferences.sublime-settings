@@ -1,0 +1,30 @@
+{
+	"default_line_ending": "unix",
+	"draw_centered": true,
+	"ensure_newline_at_eof_on_save": true,
+	"translate_tabs_to_spaces": false,
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"SassBeautify",
+		"Vintage",
+		"JSON Reindent",
+		"HTML-CSS-JS Prettify",
+		"InsertDate",
+		"GitGutter",
+		"Python Flake8 Lint"
+	],
+	"rulers":
+	[
+		-1,
+		0,
+		78,
+		79,
+		85,
+		86,
+		120,
+		121
+	],
+	"show_line_endings": true,
+	"trim_trailing_white_space_on_save": true
+}
