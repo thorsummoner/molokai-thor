@@ -12,5 +12,8 @@
 	},
 	{ "keys": ["ctrl+shift+z"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
 	{ "keys": ["ctrl+shift+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
-	{ "keys": ["ctrl+shift+t"], "command": "reopen_last_file" }
+	{ "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+	// { "keys": ["ctrl+t"], "command": "open_terminal" },
+	{ "keys": ["ctrl+t"], "command": "new_file" },
+	{ "keys": ["ctrl+shift+x"], "command": "join_lines" }
 ]
